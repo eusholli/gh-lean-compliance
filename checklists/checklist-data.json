@@ -1,0 +1,256 @@
+{
+  "general": [
+    {
+      "slogan": "All stakeholder groups are identifed",
+      "when": "Idea",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "Required contacts are identified and documented",
+      "when": "Production",
+      "principles": ["Visibility and Transparency"]
+    },
+    {
+      "slogan": "Third party auditing has been applied and documented",
+      "when": "Production",
+      "principles": ["Visibility and Transparency"]
+    }
+  ],
+  "archival": [],
+  "collection": [
+    {
+      "slogan": "We have identified an appropriate lawful basis (or bases) for our processing. (There needs to be a valid reason for collecting the data. GDPR defines 6 different lawful reasons. See [Lawful basis for processing](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/))",
+      "when": "Idea",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "We include details of our reason(s) for collecting the data in our privacy information for individuals",
+      "when": "Test",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "There is no reasonable alternative way to achieve the goal without collecting the data",
+      "when": "Idea",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We only handle people’s data in ways they would reasonably expect, or we can explain why any unexpected processing is justified",
+      "when": "Idea",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We implement [best practice](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/consent/) consent gathering if required",
+      "when": "Production",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We do not deceive or mislead people when we collect their personal data",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "We are open and honest, and comply with the transparency obligations of the right to be informed",
+      "when": "Production",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "We don’t do anything generally unlawful with personal any data we receive",
+      "when": "Idea",
+      "principles": ["Respect for User Privacy"]
+    }
+  ],
+  "erasure": [],
+  "maintenence": [
+    {
+      "slogan": "Data minimization is an active function of our software development",
+      "when": "Idea",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "We collect bare minimum data",
+      "when": "Idea",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We mask/generalize data when possible",
+      "when": "Idea",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We have a process in place to identify when we need to keep the data updated to properly fulfil our purpose, and we update it as necessary",
+      "when": "Production",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We only collect personal data we actually need for our specified purposes.",
+      "when": "Idea",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We have appropriate processes in place to check the accuracy of the data we collect, and we record the source of that data",
+      "when": "Test",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We have sufficient personal data to properly fulfil our specified purposes.",
+      "when": "Idea",
+      "principles": ["Full Functionality"]
+    },
+    {
+      "slogan": "We comply with the individual’s right to rectification and carefully consider any challenges to the accuracy of the personal data.",
+      "when": "Production",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "As a matter of good practice, we keep a note of any challenges to the accuracy of the personal data.",
+      "when": "Production",
+      "principles": ["Respect for User Privacy"]
+    }
+  ],
+  "publication": [
+    {
+      "slogan": "We ensure that any data processor we use also implements appropriate technical and organisational measures.",
+      "when": "Idea",
+      "principles": ["Proactive not Reactive"]
+    }
+  ],
+  "storage": [
+    {
+      "slogan": "We know what personal data we hold and why we need it.",
+      "when": "Idea",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "We have an information security policy (or equivalent) and take steps to make sure the policy is implemented",
+      "when": "Test",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "We understand the requirements of confidentiality, integrity and availability for the personal data we process.",
+      "when": "Idea",
+      "principles": ["Proactive not Reactive"]
+    },
+    {
+      "slogan": "We carefully consider and can justify how long we keep personal data.",
+      "when": "Idea",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We do not store data we do not have to",
+      "when": "Test",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We set minimum possible storage time on all data",
+      "when": "Test",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We have considered partitioning data and storing in different locations",
+      "when": "Idea",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We periodically review the data we hold, and delete anything we don’t need.",
+      "when": "Production",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We have a policy with standard retention periods where possible, in line with documentation obligations.",
+      "when": "Production",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We regularly review our information and erase or anonymise personal data when we no longer need it.",
+      "when": "Production",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We clearly identify any personal data that we need to keep for public interest archiving, scientific or historical research, or statistical purposes.",
+      "when": "Production",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We use encryption and/or pseudonymisation where it is appropriate to do so",
+      "when": "Test",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We have appropriate processes in place to comply with individuals’ requests for erasure under ‘the right to be forgotten’.",
+      "when": "Production",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "We keep a record of when and how we got consent from the individual.",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "We keep a record of exactly what they were told at the time.",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    }
+  ],
+  "usage": [
+    {
+      "slogan": "Access to data is limited to only those that require it",
+      "when": "Test",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We have considered how the processing may affect the individuals concerned and can justify any adverse impact",
+      "when": "Idea",
+      "principles": ["Privacy as the Default"]
+    },
+    {
+      "slogan": "We have clearly identified our purpose or purposes for processing",
+      "when": "Idea",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We have documented those purposes",
+      "when": "Test",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "We regularly review our processing and, where necessary, update our documentation and our privacy information for individuals",
+      "when": "Production",
+      "principles": ["Privacy Embedded into Design"]
+    },
+    {
+      "slogan": "All access to data is appropriately logged",
+      "when": "Test",
+      "principles": ["End-to-End Security"]
+    },
+    {
+      "slogan": "Users can request/gain access to their personal data",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "Users can correct their personal data",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "Users can request/initiate confirmed erasure of their personal data",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "Users can restrict processing of their personal data",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "Users can export their personal data",
+      "when": "Test",
+      "principles": ["Respect for User Privacy"]
+    },
+    {
+      "slogan": "Users can object to the use of their personal data",
+      "when": "Production",
+      "principles": ["Respect for User Privacy"]
+    }
+  ]
+}

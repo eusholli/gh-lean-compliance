@@ -1,0 +1,227 @@
+archival.md:### Proactive not Reactive/Preventative not Remedial
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+archival.md:### Privacy as the Default
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+archival.md:### Privacy Embedded into Design
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+archival.md:### Full Functionality
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+archival.md:### End-to-End Security
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+archival.md:### Visibility and Transparency
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+archival.md:### Respect for User Privacy
+archival.md:| Check | Description |
+archival.md:| :---: | :---------- |
+archival.md:|  [ ]  | -           |
+collection.md:### Proactive not Reactive/Preventative not Remedial
+collection.md:| Check | Description                                                                                                                                                                                                                                                                                                                                                           |
+collection.md:| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+collection.md:|  [ ]  | We have identified an appropriate lawful basis (or bases) for our processing. (There needs to be a valid reason for collecting the data. GDPR defines 6 different lawful reasons. See [Lawful basis for processing](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/)) |
+collection.md:|  [ ]  | We include details of our reason(s) for collecting the data in our privacy information for individuals                                                                                                                                                                                                                                                                |
+collection.md:### Privacy as the Default
+collection.md:| Check | Description                                                                                                                     |
+collection.md:| :---: | :------------------------------------------------------------------------------------------------------------------------------ |
+collection.md:|  [ ]  | There is no reasonable alternative way to achieve the goal without collecting the data                                          |
+collection.md:|  [ ]  | We only handle people’s data in ways they would reasonably expect, or we can explain why any unexpected processing is justified |
+collection.md:### Privacy Embedded into Design
+collection.md:| Check | Description                                                                                                                                                                                                         |
+collection.md:| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+collection.md:|  [ ]  | We implement [best practice](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/consent/) consent gathering if required |
+collection.md:### Full Functionality
+collection.md:| Check | Description |
+collection.md:| :---: | :---------- |
+collection.md:|  [ ]  | -           |
+collection.md:### End-to-End Security
+collection.md:| Check | Description |
+collection.md:| :---: | :---------- |
+collection.md:|  [ ]  | -           |
+collection.md:### Visibility and Transparency
+collection.md:| Check | Description |
+collection.md:| :---: | :---------- |
+collection.md:|  [ ]  | -           |
+collection.md:### Respect for User Privacy
+collection.md:| Check | Description                                                                                      |
+collection.md:| :---: | :----------------------------------------------------------------------------------------------- |
+collection.md:|  [ ]  | We do not deceive or mislead people when we collect their personal data                          |
+collection.md:|  [ ]  | We are open and honest, and comply with the transparency obligations of the right to be informed |
+collection.md:|  [ ]  | We don’t do anything generally unlawful with personal any data we receive                        |
+contacts.md:### Name
+contacts.md:### Address
+contacts.md:### Email
+contacts.md:### Telephone
+erasure.md:### Proactive not Reactive/Preventative not Remedial
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+erasure.md:### Privacy as the Default
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+erasure.md:### Privacy Embedded into Design
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+erasure.md:### Full Functionality
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+erasure.md:### End-to-End Security
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+erasure.md:### Visibility and Transparency
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+erasure.md:### Respect for User Privacy
+erasure.md:| Check | Description |
+erasure.md:| :---: | :---------- |
+erasure.md:|  [ ]  | -           |
+maintenence.md:### Proactive not Reactive/Preventative not Remedial
+maintenence.md:| Check | Description                                                         |
+maintenence.md:| :---: | :------------------------------------------------------------------ |
+maintenence.md:|  [ ]  | Data minimization is an active function of our software development |
+maintenence.md:### Privacy as the Default
+maintenence.md:| Check | Description                                                                                                                                |
+maintenence.md:| :---: | :----------------------------------------------------------------------------------------------------------------------------------------- |
+maintenence.md:|  [ ]  | We collect bare minimum data                                                                                                               |
+maintenence.md:|  [ ]  | We mask/generalize data when possible                                                                                                      |
+maintenence.md:|  [ ]  | We have a process in place to identify when we need to keep the data updated to properly fulfil our purpose, and we update it as necessary |
+maintenence.md:### Privacy Embedded into Design
+maintenence.md:| Check | Description                                                                                                                |
+maintenence.md:| :---: | :------------------------------------------------------------------------------------------------------------------------- |
+maintenence.md:|  [ ]  | We only collect personal data we actually need for our specified purposes.                                                 |
+maintenence.md:|  [ ]  | We have appropriate processes in place to check the accuracy of the data we collect, and we record the source of that data |
+maintenence.md:### Full Functionality
+maintenence.md:| Check | Description                                                                 |
+maintenence.md:| :---: | :-------------------------------------------------------------------------- |
+maintenence.md:|  [ ]  | We have sufficient personal data to properly fulfil our specified purposes. |
+maintenence.md:### End-to-End Security
+maintenence.md:| Check | Description |
+maintenence.md:| :---: | :---------- |
+maintenence.md:|  [ ]  | -           |
+maintenence.md:### Visibility and Transparency
+maintenence.md:| Check | Description |
+maintenence.md:| :---: | :---------- |
+maintenence.md:|  [ ]  | -           |
+maintenence.md:### Respect for User Privacy
+maintenence.md:| Check | Description                                                                                                                        |
+maintenence.md:| :---: | :--------------------------------------------------------------------------------------------------------------------------------- |
+maintenence.md:|  [ ]  | We comply with the individual’s right to rectification and carefully consider any challenges to the accuracy of the personal data. |
+maintenence.md:|  [ ]  | As a matter of good practice, we keep a note of any challenges to the accuracy of the personal data.                               |
+publication.md:### Proactive not Reactive/Preventative not Remedial
+publication.md:| Check | Description                                                                                                 |
+publication.md:| :---: | :---------------------------------------------------------------------------------------------------------- |
+publication.md:|  [ ]  | We ensure that any data processor we use also implements appropriate technical and organisational measures. |
+publication.md:### Privacy as the Default
+publication.md:| Check | Description |
+publication.md:| :---: | :---------- |
+publication.md:|  [ ]  |             |
+publication.md:### Privacy Embedded into Design
+publication.md:| Check | Description |
+publication.md:| :---: | :---------- |
+publication.md:|  [ ]  |             |
+publication.md:### Full Functionality
+publication.md:| Check | Description |
+publication.md:| :---: | :---------- |
+publication.md:|  [ ]  |             |
+publication.md:### End-to-End Security
+publication.md:| Check | Description |
+publication.md:| :---: | :---------- |
+publication.md:|  [ ]  |             |
+publication.md:### Visibility and Transparency
+publication.md:| Check | Description |
+publication.md:| :---: | :---------- |
+publication.md:|  [ ]  |             |
+publication.md:### Respect for User Privacy
+publication.md:| Check | Description |
+publication.md:| :---: | :---------- |
+publication.md:|  [ ]  |             |
+storage.md:### Proactive not Reactive/Preventative not Remedial
+storage.md:| Check | Description                                                                                                     |
+storage.md:| :---: | :-------------------------------------------------------------------------------------------------------------- |
+storage.md:|  [ ]  | We know what personal data we hold and why we need it.                                                          |
+storage.md:|  [ ]  | We have an information security policy (or equivalent) and take steps to make sure the policy is implemented    |
+storage.md:|  [ ]  | We understand the requirements of confidentiality, integrity and availability for the personal data we process. |
+storage.md:### Privacy as the Default
+storage.md:| Check | Description                                                           |
+storage.md:| :---: | :-------------------------------------------------------------------- |
+storage.md:|  [ ]  | We carefully consider and can justify how long we keep personal data. |
+storage.md:### Privacy Embedded into Design
+storage.md:| Check | Description                                                                                                                                           |
+storage.md:| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+storage.md:|  [ ]  | We do not store data we do not have to                                                                                                                |
+storage.md:|  [ ]  | We set minimum possible storage time on all data                                                                                                      |
+storage.md:|  [ ]  | We have considered partitioning data and storing in different locations                                                                               |
+storage.md:|  [ ]  | We periodically review the data we hold, and delete anything we don’t need.                                                                           |
+storage.md:|  [ ]  | We have a policy with standard retention periods where possible, in line with documentation obligations.                                              |
+storage.md:|  [ ]  | We regularly review our information and erase or anonymise personal data when we no longer need it.                                                   |
+storage.md:|  [ ]  | We clearly identify any personal data that we need to keep for public interest archiving, scientific or historical research, or statistical purposes. |
+storage.md:|  [ ]  | We use encryption and/or pseudonymisation where it is appropriate to do so                                                                            |
+storage.md:### Full Functionality
+storage.md:| Check | Description |
+storage.md:| :---: | :---------- |
+storage.md:|  [ ]  | -           |
+storage.md:### End-to-End Security
+storage.md:| Check | Description |
+storage.md:| :---: | :---------- |
+storage.md:|  [ ]  | -           |
+storage.md:### Visibility and Transparency
+storage.md:| Check | Description |
+storage.md:| :---: | :---------- |
+storage.md:|  [ ]  | -           |
+storage.md:### Respect for User Privacy
+storage.md:| Check | Description                                                                                                                |
+storage.md:| :---: | :------------------------------------------------------------------------------------------------------------------------- |
+storage.md:|  [ ]  | We have appropriate processes in place to comply with individuals’ requests for erasure under ‘the right to be forgotten’. |
+storage.md:|  [ ]  | We keep a record of when and how we got consent from the individual.                                                       |
+storage.md:|  [ ]  | We keep a record of exactly what they were told at the time.                                                               |
+usage.md:### Proactive not Reactive/Preventative not Remedial
+usage.md:| Check | Description |
+usage.md:| :---: | :---------- |
+usage.md:|  [ ]  | -           |
+usage.md:### Privacy as the Default
+usage.md:| Check | Description                                                                                                   |
+usage.md:| :---: | :------------------------------------------------------------------------------------------------------------ |
+usage.md:|  [ ]  | Access to data is limited to only those that require it                                                       |
+usage.md:|  [ ]  | We have considered how the processing may affect the individuals concerned and can justify any adverse impact |
+usage.md:### Privacy Embedded into Design
+usage.md:| Check | Description                                                                                                                   |
+usage.md:| :---: | :---------------------------------------------------------------------------------------------------------------------------- |
+usage.md:|  [ ]  | We have clearly identified our purpose or purposes for processing                                                             |
+usage.md:|  [ ]  | We have documented those purposes                                                                                             |
+usage.md:|  [ ]  | We regularly review our processing and, where necessary, update our documentation and our privacy information for individuals |
+usage.md:### Full Functionality
+usage.md:| Check | Description |
+usage.md:| :---: | :---------- |
+usage.md:|  [ ]  | -           |
+usage.md:### End-to-End Security
+usage.md:| Check | Description |
+usage.md:| :---: | :---------- |
+usage.md:| [ ] | All access to data is appropriately logged|
+usage.md:### Visibility and Transparency
+usage.md:| Check | Description |
+usage.md:| :---: | :---------- |
+usage.md:|  [ ]  | -           |
+usage.md:### Respect for User Privacy
+usage.md:| Check | Description                                                         |
+usage.md:| :---: | :------------------------------------------------------------------ |
+usage.md:|  [ ]  | Users can request/gain access to their personal data                |
+usage.md:|  [ ]  | Users can correct their personal data                               |
+usage.md:|  [ ]  | Users can request/initiate confirmed erasure of their personal data |
+usage.md:|  [ ]  | Users can restrict processing of their personal data                |
+usage.md:|  [ ]  | Users can export their personal data                                |
+usage.md:|  [ ]  | Users can object to the use of their personal data                  |

@@ -1,0 +1,34 @@
+{
+  "name": "privacy-by-design",
+  "version": "1.0.0",
+  "description": "Practical application and capstone project for the Data Protocol Privacy By Design course",
+  "main": "checklists/parseraw.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Data-Protocol/privacy-by-design.git"
+  },
+  "keywords": [
+    "GDPR",
+    "CCPA",
+    "privacy",
+    "compliance"
+  ],
+  "author": "Geoff Hollingworth <eusholli@gmail.com> (https://linkedin.com/in/geoffhollingworth)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Data-Protocol/privacy-by-design/issues"
+  },
+  "homepage": "https://github.com/Data-Protocol/privacy-by-design#readme",
+  "devDependencies": {
+    "eslint": "7.8.1"
+  },
+  "dependencies": {
+    "mustache": "4.0.1"
+  }
+}
