@@ -1,0 +1,59 @@
+{
+  "use-case": "enter use case name",
+  "description": "describe use case",
+  "data-objects": ["list all data objects touched by this use case"],
+  "references": [
+    "https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf",
+    "https://iapp.org/store/books/a191a0000034aEeAAI/"
+  ],
+  "ARCHITECTURE": {
+    "description": "Did you architect the system to minimize and separate?",
+    "tactics": [
+      {
+        "description": "Collect physical address information in case useful later",
+        "applied": false,
+        "rational": "explain rational"
+      },
+      {
+        "description": "Collect email only since no other information is needed",
+        "applied": false,
+        "rational": "explain rational"
+      },
+      {
+        "description": "Collect as much information as possible in each country depending on what is allowed",
+        "applied": false,
+        "rational": "explain rational"
+      }
+    ]
+  },
+  "SECURE": {
+    "description": "Did you secure the system by hiding and abstracting data?",
+    "tactics": [
+      {
+        "description": "xx",
+        "applied": false,
+        "rational": "explain rational"
+      }
+    ]
+  },
+  "SUPERVISE": {
+    "description": "Are you supervising through enforcing policies and demonstrating compliance with policies?",
+    "tactics": [
+      {
+        "description": "xx",
+        "applied": false,
+        "rational": "explain rational"
+      }
+    ]
+  },
+  "BALANCE": {
+    "description": "Are you balancing the interest of individuals and the business through informing them and giving them control where practical?",
+    "tactics": [
+      {
+        "description": "xx",
+        "applied": false,
+        "rational": "explain rational"
+      }
+    ]
+  }
+}
